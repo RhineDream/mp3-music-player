@@ -11,6 +11,7 @@ Code: Python.
 5. 播放模式切换：单曲循环，顺序播放，随机播放
 6. 收藏
 7. 音量控制
+8. 歌曲检索
 
 
 ![image](https://github.com/user-attachments/assets/2f96a470-390c-457a-8bfb-3d1726de77f5)
